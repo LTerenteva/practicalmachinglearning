@@ -33,7 +33,7 @@ Velloso, E.; Bulling, A.; Gellersen, H.; Ugulino, W.; Fuks, H. “Qualitative Ac
 
 We first upload the R libraries that are necessary for the complete analysis.
 
-```{r}
+```{r, Echo=FALSE}
 library(caret)
 library(randomForest)
 library(corrplot)
